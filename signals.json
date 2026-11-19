@@ -1,0 +1,93 @@
+{
+  "updated_at": "2026-11-19 08:20",
+  "base_date": "2026-11-19",
+  "assets": [
+    {
+      "id": "kr_stock",
+      "name": "국내주식 (코스피200 TR)",
+      "desc": "코스피200 TR 지수형",
+      "ticker": "294400",
+      "tax_group": "국내주식형",
+      "standard": {
+        "current_price": 104255,
+        "high_12m": 181425,
+        "cutoff_price": 172354,
+        "drawdown_pct": -42.54,
+        "is_active": false,
+        "weight_pct": 0,
+        "points_used": 12
+      }
+    },
+    {
+      "id": "us_stock",
+      "name": "미국주식 (나스닥100 · 환노출)",
+      "desc": "미국나스닥100 환노출형",
+      "ticker": "133690",
+      "tax_group": "해외·채권형",
+      "standard": {
+        "current_price": 159800,
+        "high_12m": 204499,
+        "cutoff_price": 194274,
+        "drawdown_pct": -21.86,
+        "is_active": false,
+        "weight_pct": 0,
+        "points_used": 12
+      }
+    },
+    {
+      "id": "kr_bond",
+      "name": "한국장기채 (국고채30년)",
+      "desc": "한국 국고채30년 액티브형",
+      "ticker": "439870",
+      "tax_group": "해외·채권형",
+      "standard": {
+        "current_price": 96190,
+        "high_12m": 109215,
+        "cutoff_price": 103754,
+        "drawdown_pct": -11.93,
+        "is_active": false,
+        "weight_pct": 0,
+        "points_used": 12
+      }
+    },
+    {
+      "id": "us_bond",
+      "name": "미국장기채 (미국채30년 · 환노출)",
+      "desc": "미국 30년국채 환노출형",
+      "ticker": "476760",
+      "tax_group": "해외·채권형",
+      "standard": {
+        "current_price": 8390,
+        "high_12m": 10495,
+        "cutoff_price": 9970,
+        "drawdown_pct": -20.06,
+        "is_active": false,
+        "weight_pct": 0,
+        "points_used": 12
+      }
+    },
+    {
+      "id": "gold",
+      "name": "금 (금현물 · 환노출)",
+      "desc": "KRX금현물 ETF",
+      "ticker": "411060",
+      "tax_group": "금현물형",
+      "standard": {
+        "current_price": 22570,
+        "high_12m": 35440,
+        "cutoff_price": 33668,
+        "drawdown_pct": -36.31,
+        "is_active": false,
+        "weight_pct": 0,
+        "points_used": 12
+      }
+    }
+  ],
+  "cash": {
+    "id": "cash",
+    "name": "현금성 대기 (단기채/MMF)",
+    "desc": "초단기 머니마켓(MMF) ETF",
+    "ticker": "455890",
+    "current_price": 55895
+  }
+}
