@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 08:20",
+  "updated_at": "2026-11-19 09:15",
   "base_date": "2026-11-19",
   "assets": [
     {
@@ -9,10 +9,10 @@
       "ticker": "294400",
       "tax_group": "국내주식형",
       "standard": {
-        "current_price": 104255,
+        "current_price": 104380,
         "high_12m": 181425,
         "cutoff_price": 172354,
-        "drawdown_pct": -42.54,
+        "drawdown_pct": -42.47,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -25,10 +25,10 @@
       "ticker": "133690",
       "tax_group": "해외·채권형",
       "standard": {
-        "current_price": 159800,
+        "current_price": 160075,
         "high_12m": 204499,
         "cutoff_price": 194274,
-        "drawdown_pct": -21.86,
+        "drawdown_pct": -21.72,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -41,10 +41,10 @@
       "ticker": "439870",
       "tax_group": "해외·채권형",
       "standard": {
-        "current_price": 96190,
+        "current_price": 96100,
         "high_12m": 109215,
         "cutoff_price": 103754,
-        "drawdown_pct": -11.93,
+        "drawdown_pct": -12.01,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -57,10 +57,10 @@
       "ticker": "476760",
       "tax_group": "해외·채권형",
       "standard": {
-        "current_price": 8390,
+        "current_price": 8380,
         "high_12m": 10495,
         "cutoff_price": 9970,
-        "drawdown_pct": -20.06,
+        "drawdown_pct": -20.15,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -73,10 +73,20 @@
       "ticker": "411060",
       "tax_group": "금현물형",
       "standard": {
-        "current_price": 22570,
+        "current_price": 22540,
         "high_12m": 35440,
         "cutoff_price": 33668,
-        "drawdown_pct": -36.31,
+        "drawdown_pct": -36.4,
+        "is_active": false,
+        "weight_pct": 0,
+        "points_used": 12
+      },
+      "alt_signal": {
+        "ticker": "0064K0",
+        "current_price": 10515,
+        "high_12m": 15660,
+        "cutoff_price": 14877,
+        "drawdown_pct": -32.85,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
