@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19 09:15",
-  "base_date": "2026-11-19",
+  "updated_at": "2026-11-20 01:34",
+  "base_date": "2026-11-20",
   "assets": [
     {
       "id": "kr_stock",
@@ -9,10 +9,10 @@
       "ticker": "294400",
       "tax_group": "국내주식형",
       "standard": {
-        "current_price": 104380,
+        "current_price": 105980,
         "high_12m": 181425,
         "cutoff_price": 172354,
-        "drawdown_pct": -42.47,
+        "drawdown_pct": -41.58,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -25,10 +25,10 @@
       "ticker": "133690",
       "tax_group": "해외·채권형",
       "standard": {
-        "current_price": 160075,
+        "current_price": 162425,
         "high_12m": 204499,
         "cutoff_price": 194274,
-        "drawdown_pct": -21.72,
+        "drawdown_pct": -20.57,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -41,10 +41,10 @@
       "ticker": "439870",
       "tax_group": "해외·채권형",
       "standard": {
-        "current_price": 96100,
+        "current_price": 96565,
         "high_12m": 109215,
         "cutoff_price": 103754,
-        "drawdown_pct": -12.01,
+        "drawdown_pct": -11.58,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -57,10 +57,10 @@
       "ticker": "476760",
       "tax_group": "해외·채권형",
       "standard": {
-        "current_price": 8380,
+        "current_price": 8400,
         "high_12m": 10495,
         "cutoff_price": 9970,
-        "drawdown_pct": -20.15,
+        "drawdown_pct": -19.96,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -73,20 +73,20 @@
       "ticker": "411060",
       "tax_group": "금현물형",
       "standard": {
-        "current_price": 22540,
+        "current_price": 22205,
         "high_12m": 35440,
         "cutoff_price": 33668,
-        "drawdown_pct": -36.4,
+        "drawdown_pct": -37.34,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
       },
       "alt_signal": {
         "ticker": "0064K0",
-        "current_price": 10515,
+        "current_price": 10345,
         "high_12m": 15660,
         "cutoff_price": 14877,
-        "drawdown_pct": -32.85,
+        "drawdown_pct": -33.94,
         "is_active": false,
         "weight_pct": 0,
         "points_used": 12
@@ -98,6 +98,6 @@
     "name": "현금성 대기 (단기채/MMF)",
     "desc": "초단기 머니마켓(MMF) ETF",
     "ticker": "455890",
-    "current_price": 55895
+    "current_price": 55910
   }
 }
